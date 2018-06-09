@@ -9,5 +9,5 @@ Get a word frequency from your Wordpress posts.
 
 ## How to use
 
-- add the name of your export file into the main ruby prog file
+- add the name of your export file into the main ruby prog file where is says "YOUR WORDPRESS EXPORT XML FILE"
 - run ```ruby prog.rb```
